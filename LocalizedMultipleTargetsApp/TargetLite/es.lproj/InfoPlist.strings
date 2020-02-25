@@ -1,0 +1,9 @@
+/*
+  InfoPlist.strings
+  LocalizedMultipleTargetsApp
+
+  Created by Pin-Chou Liu on 2/25/20.
+  Copyright © 2020 Pin-Chou Liu. All rights reserved.
+*/
+
+CFBundleDisplayName = "ES Lite";
